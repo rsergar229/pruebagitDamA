@@ -24,7 +24,7 @@ public class Calculadora {
     }
     
     public int divide(int num1,int num2){
-        if (num2==0) throw new ArithmeticException("NO PUEDES DIVIDIR POR CERO, chaval");
+        if (num2==0) throw new ArithmeticException("NO PUEDES DIVIDIR POR CERO, chav");
         return num1/num2;
     }
 
